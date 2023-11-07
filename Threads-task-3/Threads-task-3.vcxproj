@@ -131,6 +131,11 @@
     <ClCompile Include="main-2.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="main-1.cpp" />
+    <ClCompile Include="Threads.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GlobalData.hpp" />
+    <ClInclude Include="Threads.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

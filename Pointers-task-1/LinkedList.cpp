@@ -66,7 +66,6 @@ void StringListDestroy(char*** list)
 	{
 		char* next = current[NEXT];
 		free(*current);
-		*current = nullptr;
 		current = &next;
 	}
 

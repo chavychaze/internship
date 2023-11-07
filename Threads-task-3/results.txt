@@ -1,5 +1,5 @@
-Total number of processed files: 31
-Total number of blank lines: 290
-Total number of comment lines: 717
-Total number of code lines: 1150
-Time of execution: 36.6868 seconds
+Total number of processed files: 61
+Total number of blank lines: 2601
+Total number of comment lines: 5986
+Total number of code lines: 16082
+Time of execution: 0.108311 seconds
